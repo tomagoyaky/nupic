@@ -18,4 +18,4 @@ prettytable==0.7.2
 # When updating nupic.bindings, also update any shared dependencies to keep
 # versions in sync.
 nupic.bindings==0.4.2.dev0
-numpy==1.9.2
+numpy==1.22.2
